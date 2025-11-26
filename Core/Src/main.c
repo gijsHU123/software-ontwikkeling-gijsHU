@@ -61,7 +61,7 @@ int main(void)
   lineStruct.y_1 = 1,
   lineStruct.x_2 = 230,
   lineStruct.y_2 = 231,
-  lineStruct.color = VGA_COL_BLUE,
+  lineStruct.color = VGA_COL_LIGHT_GREEN,
   lineStruct.weight = 2,
 
   lineToVGA(lineStruct);
