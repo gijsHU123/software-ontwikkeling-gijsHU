@@ -25,7 +25,7 @@ int main(void)
   UB_VGA_FillScreen(VGA_COL_RED);
 
   rectangle_struct rectangleStruct = {
-    .x = 190,
+    .x = 200,
     .y = 201,
     .width = 10,
     .height = 20,
